@@ -42,7 +42,8 @@ Otherwise, all links will open in the same tab.
 
  ## Screenshot
  
-![Screenshot](./imgs/Salto.png)
+![Screenshot](./images/Salto.png)
+![Screenshot](./images/Salto1.png)
 
 
 ## what-i-learned
