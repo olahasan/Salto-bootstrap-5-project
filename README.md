@@ -1,4 +1,4 @@
-# Salto-bootstrap-5-project
+# Salto-restaurant-bootstrap-5-project
 
 this is a simple bootstrap template . it contains html file and bootstrap file.
 
