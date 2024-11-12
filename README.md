@@ -23,7 +23,7 @@ To get started with this project, follow these steps:
 you can clone the project or download it as Zip file.
  Clone the repository:
    ```bash
-   git clone https://github.com/olahasan/Salto-bootstrap-5-project.git
+   git clone https://github.com/olahasan/Salto-restaurant-bootstrap-5-project.git
 ```
 
 ## Links
@@ -35,9 +35,9 @@ If you want to open the link in a new tab, you can:
 
 Otherwise, all links will open in the same tab.
 
-- Solution URL: [here](https://github.com/olahasan/Salto-bootstrap-5-project)
+- Solution URL: [here](https://github.com/olahasan/Salto-restaurant-bootstrap-5-project)
 
-- Live Site URL: [here](https://olahasan.github.io/Salto-bootstrap-5-project/)
+- Live Site URL: [here](https://olahasan.github.io/Salto-restaurant-bootstrap-5-project/)
 
 
  ## Screenshot
